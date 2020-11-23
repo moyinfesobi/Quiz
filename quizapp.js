@@ -94,18 +94,17 @@ const questions = [
         ]
     },
     {
-        question: 'Is coding fun?',
+        question: 'what is 2 * 9?',
         answers:  [
-            {text: 'Kinda', correct: false},
-            {text: 'Yes!!', correct: true},
-            {text: 'I am not sure', correct: false},
-            {text: 'No', correct: false}
+            {text: '50', correct: false},
+            {text: '18', correct: true},
+            
         ]
     },
     {
-        question: 'How old are you?',
+        question: 'what is 6 * 5?',
         answers:  [
-            {text: '23', correct: true},
+            {text: '30', correct: true},
             {text: '45', correct: false},
            
         ]
